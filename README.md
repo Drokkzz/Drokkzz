@@ -10,7 +10,7 @@ I'm a passionate full-stack .NET developer who loves building cool things with c
 
 ---
 
-## 📊 GitHub 
+
 ## 📊 GitHub Stats
 
 ![Drokkzz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drokkzz&show_icons=true&theme=radical)
