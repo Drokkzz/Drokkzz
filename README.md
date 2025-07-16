@@ -1,5 +1,5 @@
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
 
 
@@ -9,6 +9,14 @@
 I'm a passionate full-stack .NET developer who loves building cool things with code. When I'm not writing C# or crafting slick UIs, you’ll probably find me gaming, vibing to music, or binge-watching anime.
 
 ---
+
+## Some Stats
+
+--
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+--
+
 
 ## 🛠️ Tech Stack
 
