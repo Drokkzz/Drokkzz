@@ -11,12 +11,9 @@ I'm a passionate full-stack .NET developer who loves building cool things with c
 ---
 
 ##  Some Stats
-
----
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ---
-
 
 ## 🛠️ Tech Stack
 
