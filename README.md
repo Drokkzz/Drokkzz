@@ -14,9 +14,9 @@ I'm a passionate full-stack .NET developer who loves building cool things with c
 ## 📊 GitHub Stats
 
 ![Drokkzz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drokkzz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drokkzz&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drokkzz&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drokkzz&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drokkzz&layout=compact&theme=radical)
 
 
 ---
