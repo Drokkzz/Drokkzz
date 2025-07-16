@@ -10,13 +10,8 @@ I'm a passionate full-stack .NET developer who loves building cool things with c
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
-![Drokkzz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drokkzz&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drokkzz&layout=compact&theme=radical)
 
 
 ---
